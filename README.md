@@ -21,7 +21,7 @@
   深入研究 → 开拓发散 → 找到创作切入点
   ↓
 第三阶段：三件套产出
-  skill.skill + 创作日志.md + 公众号推广文章
+  skill.skill + 创作日志.md + 推广文章.md
 ```
 
 ## 三件套说明
@@ -51,7 +51,7 @@ git clone https://github.com/xiaoshiyilangzhao1996-droid/inspiration-hunter.git 
 
 ---
 
-## 第一个案例：irplaceable-you.skill
+## 第一个完整案例：irreplaceable-you.skill
 
 灵感捕手工作流的第一个完整产出。
 
